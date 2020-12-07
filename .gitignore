@@ -93,3 +93,8 @@ ENV/
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
+
+
+### PyCharm JetBrains ###
+# folder
+.idea/
